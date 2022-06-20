@@ -1,0 +1,35 @@
+main{
+    text-align: center;
+}
+#codes{
+    width: 90%;
+    min-height: 288px;
+    border-radius: 16px;
+    border: 2px solid rgb(243, 59, 160);
+}
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+#buttons button{
+    width: 30%;
+    border-radius: 16px;
+    border: 0px;
+    padding: 6px;
+}
+#remove{
+    background-color: rgb(255, 79, 79);
+}
+#play{
+    background-color: greenyellow;
+}
+#result1{
+    padding: 10px;
+    border-bottom: 2px solid rgb(243, 59, 160);
+    margin: 8px 0px;
+    font-weight: bold;
+    max-width: 100% !important;
+}
+#result{
+    max-width: 100% !important;
+}
